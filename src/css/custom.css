@@ -1,0 +1,426 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* @import url("https://fonts.googleapis.com/css?family=Roboto&display=block");
+
+ body {
+   font-family: "Roboto", sans-serif;
+ } */
+
+/* You can override the default Infima variables here. */
+/**
+*
+* Override Infima's variables + set color palette
+*
+**/
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Karla&display=swap");
+:root {
+
+  --palette-light-v-background: #EDEBE3;
+  --palette-light-v-beige: #9AB7BB;
+  --palette-light-v-head: #557A80;
+  --palette-light-v-dark: #252F38;
+  --palette-light-v-orange: #E2845B;
+
+  --palette-dark-v-yellow: #E4CD94;
+  --palette-dark-v-white: #FFFFFF;
+  --palette-dark-v-blue: #013785;
+  --palette-dark-v-pink: #EF8993;
+  --pallette-dark-v-light-pink: #E8B9C0;
+
+
+  --palette-blue-head: #334E68;
+  --palette-blue-text: #243B53;
+  --palette-charade: #21222c;
+  --palette-gray: #32343e;
+  --palette-green: #66bb6a;
+  --palette-light-blue: #7FC7FF;
+  --palette-midnight: #141725;
+  --palette-pale-blue: #b1b5d3;
+  --palette-pink: #d14671;
+  --palette-pink-darker: #be2f5b;
+  --palette-purp-title: #2F0963;
+  --palette-rock: #262833;
+  --palette-sky: #81d3f9;
+  --palette-turquoise: #0cc0df;
+  --palette-white: #fff;
+  --palette-white-03: rgba(255, 255, 255, 0.03); /* */
+  --palette-white-05: rgba(255, 255, 255, 0.05);
+  --palette-white-10: rgba(255, 255, 255, 0.1);
+  --palette-white-20: rgba(255, 255, 255, 0.2);
+  --palette-white-30: rgba(255, 255, 255, 0.3);
+  --palette-white-100: rgba(230, 230, 245, 0.7);
+  --palette-white-darker: #d9d9d9;
+  --palette-yellow: #ffd54f;
+
+  --transition-bezier: cubic-bezier(0.17, 0.67, 0.83, 0.67);
+
+  --font-family-base: "Karla", "Segoe UI", Roboto,
+    Ubuntu, Cantarell, Helvetica, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Android Emoji", EmojiSymbols, "EmojiOne Mozilla",
+    "Twemoji Mozilla", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --font-size-small: 15px;
+  --font-size-normal: 16px;
+  --font-size-large: 18px;
+  --font-size-llarge: 24px;
+  --font-size-xlarge: 32px;
+  --font-size-xxlarge: 46px;
+  --font-size-xxxlarge: 64px;
+
+  --ifm-background-color: var(--palette-light-v-background);
+  --ifm-blockquote-color: var(--palette-pale-blue);
+  --ifm-code-background: var(--palette-gray);
+  --ifm-code-color: var(--palette-white);
+  --ifm-code-font-size: var(--font-size-small);
+  --ifm-color-emphasis-300: var(--palette-pale-blue);
+  --ifm-color-primary: var(--palette-light-v-orange); /* come back*/
+  --ifm-color-primary-dark: #c93261;
+  --ifm-color-primary-darker: var(--palette-pink-darker);
+  --ifm-color-primary-darkest: #9c274b;
+  --ifm-color-primary-light: #d75c82;
+  --ifm-color-primary-lighter: #d9688b;
+  --ifm-color-primary-lightest: #e289a4;
+  --ifm-color-info: var(--palette-green);
+  --ifm-color-success: var(--palette-green);
+  --ifm-color-warning: var(--palette-yellow);)
+  --ifm-dropdown-background-color: var(--palette-rock);
+  --ifm-font-color-base: var(--light-v-dark);
+  --ifm-font-family-base: var(--font-family-base);
+  --ifm-font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,  /* come back*/
+    "Liberation Mono", "Courier New", monospace;
+  --ifm-font-size-base: var(--font-size-small);
+  --ifm-global-border-radius: 8px;
+  --ifm-h1-font-size: var(--font-size-xxlarge);
+  --ifm-h2-font-size: var(--font-size-llarge);
+  --ifm-h4-font-size: var(--font-size-large);
+  --ifm-heading-margin-bottom: 1.5rem;
+  --ifm-link-color: var(--palette-light-v-dark);
+  /* --ifm-menu-link-sublist-icon: url("/img/infima/arrow.svg"); */
+  --ifm-navbar-background-color: var(--palette-light-v-beige);
+  --ifm-navbar-height: 80px;
+  --ifm-navbar-item-padding-horizontal: 20px;
+  --ifm-navbar-shadow: 0 1px 0 0 var(--palette-white-10);
+  --ifm-paragraph-margin-bottom: 1.25rem;
+  --ifm-pre-background: var(--palette-midnight);
+  --ifm-table-cell-padding: 0.15rem 1rem;
+  --ifm-toc-border-color: var(--palette-light-v-beige);
+}
+
+html[data-theme="dark"] {
+  --ifm-background-color: var(--palette-dark-v-blue);
+  --ifm-color-emphasis-300: var(--palette-pale-blue);
+  --ifm-navbar-background-color: var(--palette-dark-v-pink);
+  /* --ifm-toc-border-color: var(--palette-dark-v-pink); */
+  --ifm-color-primary: var(--palette-dark-v-yellow); /* come back*/
+  --ifm-link-color: var(--pallette-dark-v-light-pink);
+}
+
+html[data-theme="dark"] .DocSearch {
+  --docsearch-text-color: var(--ifm-font-color-base);
+  --docsearch-muted-color: var(--ifm-color-secondary-darkest);
+  --docsearch-container-background: rgba(0, 0, 0, 0.5);
+  /* Modal */
+  --docsearch-modal-background: var(--ifm-background-color);
+  /* Search box */
+  --docsearch-searchbox-background: var(--palette-white-10);
+  --docsearch-searchbox-focus-background: var(--palette-midnight);
+  /* Hit */
+  --docsearch-hit-color: var(--ifm-font-color-base);
+  --docsearch-hit-active-color: var(--ifm-color-white);
+  --docsearch-hit-background: var(--palette-rock);
+  /* Footer */
+  --docsearch-footer-background: var(--ifm-background-color);
+  --docsearch-key-gradient: linear-gradient(
+    -26.5deg,
+    var(--palette-gray) 0%,
+    var(--palette-rock) 100%
+  );
+}
+
+/**
+ *
+ * Override Docusaurus/Infima
+ *
+ **/
+
+nav {
+  --ifm-font-size-base: var(--font-size-normal);
+}
+
+.markdown {
+  --ifm-h2-vertical-rhythm-top: 3;
+  --ifm-h3-vertical-rhythm-top: 2;
+  --ifm-heading-vertical-rhythm-top: 2; /* h4 */
+  --ifm-heading-vertical-rhythm-bottom: 0.4;
+  --ifm-table-background: var(--palette-white-03);
+  --ifm-table-border-color: var(--palette-charade);
+  --ifm-table-border-width: 4px;
+  --ifm-table-head-background: var(--palette-gray);
+  --ifm-table-head-color: var(--palette-white);
+  --ifm-table-stripe-background: var(--palette-white-03);
+}
+
+.admonition {
+  --ifm-color-info: var(--palette-pale-blue);
+  --ifm-color-success: var(--ifm-color-primary-lightest);
+  --ifm-heading-color: #000;
+}
+
+.alert--secondary {
+  --ifm-alert-background-color: var(--palette-white-darker);
+  --ifm-alert-border-color: var(--palette-white-darker);
+}
+
+.pagination-nav {
+  --ifm-pagination-nav-border-radius: var(--ifm-global-border-radius);
+  --ifm-color-emphasis-300: transparent;
+  --ifm-color-content-secondary: var(--palette-white);
+  --ifm-link-color: var(--palette-white);
+  --ifm-link-hover-color: var(--palette-white);
+}
+
+html[data-theme='light'] .pagination-nav {
+
+  --ifm-pagination-nav-color-hover: var(--palette-light-v-background);
+}
+
+html[data-theme='dark'] .pagination-nav {
+  --ifm-pagination-nav-color-hover: var(--palette-dark-v-blue);
+}
+
+
+html[data-theme='light'] .pagination-nav__item--next .pagination-nav__link {
+  background: var(--palette-light-v-orange);
+}
+
+html[data-theme='light'] .pagination-nav__link {
+  background: var(--palette-light-v-head);
+}
+
+html[data-theme='dark'] .pagination-nav__item--next .pagination-nav__link {
+  background: var(--palette-dark-v-yellow);
+}
+
+html[data-theme='dark'] .pagination-nav__link {
+  background: var(--palette-dark-v-pink);
+}
+
+.navbar__link,
+.dropdown__link {
+  font-size: var(--ifm-font-size-base);
+}
+
+.main-wrapper {
+  margin-top: 3rem;
+}
+
+main article header h2 a {
+  color: var(--palette-white-darker);
+}
+
+.main-wrapper main > article > section .banner {
+  display: none;
+}
+
+.DocSearch-Button-Key {
+  display: none !important;
+}
+
+@media (max-width: 996px) {
+  .main-wrapper {
+    margin-top: 2rem;
+  }
+}
+
+/**
+ *
+ * Custom global styles
+ *
+ **/
+
+/* Firefox */
+* {
+  scrollbar-color: var(--palette-pale-blue) var(--palette-gray);
+  scrollbar-width: thin;
+}
+
+/* WebKit / Blink */
+::-webkit-scrollbar {
+  width: 7px !important;
+  height: 7px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--palette-gray) !important;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0 !important;
+  background: var(--palette-pale-blue) !important;
+}
+
+::-webkit-scrollbar-corner {
+  background: var(--palette-gray) !important;
+}
+
+.navbar__item--slack {
+  padding-left: 2.25rem;
+  background-image: url("/img/slack.svg");
+  background-position-x: 0.5rem;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+}
+
+.navbar__item--github {
+  padding-left: 2.25rem;
+  background-image: url("/img/github.svg");
+  background-position-x: 0.5rem;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+}
+
+.screenshot--shadow {
+  box-shadow: 0 15px 61px 5px rgba(20, 23, 37, 0.94);
+}
+
+.screenshot--docs {
+  display: block;
+  margin: 4rem auto;
+}
+
+.screenshot--small {
+  max-width: 500px;
+}
+
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='light'] p, li {
+  color: #000;
+}
+
+html[data-theme='light'] h1 {
+    color: var(--palette-light-v-head);
+}
+
+html[data-theme='light'] h2 {
+    color: var(--palette-light-v-head);
+}
+
+html[data-theme='light'] h3 {
+    color: var(--palette-light-v-head);
+}
+
+html[data-theme='light'] h4 {
+    color: var(--palette-light-v-head);
+}
+
+html[data-theme='light'] h5 {
+    color: var(--palette-light-v-head);
+}
+
+html[data-theme='light'] h6 {
+    color: var(--palette-light-v-head);
+}
+
+/* Dark Version Headers */
+
+
+html[data-theme='dark'] p, li {
+  color: var(--palette-dark-v-white);
+}
+
+html[data-theme='dark'] h1 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] h2 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] h3 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] h4 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] h5 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] h6 {
+    color: var(--palette-dark-v-pink);
+}
+
+html[data-theme='dark'] main article a {
+    font-weight: bold;
+}
+
+html[data-theme='light']  main article a {
+    color: var(--palette-blue-text);
+    /* color: #97989E; */
+}
+
+/* html[data-theme="dark"] .docPage {
+    color: var(--palette-green);
+  --ifm-menu-color-background-active: var(--palette-green);
+} */
+
+
+
+p {
+  font-size: 17px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 33px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 13.6px;
+}
+
+hr {
+    border-color: #E6ECF0;
+}
+
+iframe {
+    border-style: none;
+    box-shadow: 0px 0px 15px 0px #888888;
+}
+
+figcaption {
+    color: #9DAAB6;
+  text-align: right;
+  padding: 10px 0px 50px 0px ;
+}
