@@ -3,7 +3,7 @@ title: Example Application Submissions
 sidebar_label: Example Submissions
 ---
 
-[NDSEG compilation of essays (private for now, though)](https://forum.thegradcafe.com/topic/119839-ndseg-2019-2020/page/61/?tab=comments#comment-1058764473)
+[NDSEG compilation of essays](https://drive.google.com/drive/folders/1Ut7fWlFrpmuyZOaqsca_-zxcPE2KSub-)
 
 [NSF compilation of essays and reviews](https://www.alexhunterlang.com/nsf-fellowship#h.p_ID_272)
 

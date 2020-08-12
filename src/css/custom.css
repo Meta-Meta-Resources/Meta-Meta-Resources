@@ -157,12 +157,24 @@ nav {
   --ifm-h3-vertical-rhythm-top: 2;
   --ifm-heading-vertical-rhythm-top: 2; /* h4 */
   --ifm-heading-vertical-rhythm-bottom: 0.4;
-  --ifm-table-background: var(--palette-white-03);
-  --ifm-table-border-color: var(--palette-charade);
   --ifm-table-border-width: 4px;
-  --ifm-table-head-background: var(--palette-gray);
-  --ifm-table-head-color: var(--palette-white);
-  --ifm-table-stripe-background: var(--palette-white-03);
+}
+
+html[data-theme="light"] .markdown {
+    /* --ifm-table-background: var(--palette-white-03); */
+    --ifm-table-border-color: var(--palette-light-v-background);
+    /* --ifm-table-head-background: var(--palette-gray); */
+    /* --ifm-table-head-color: var(--palette-white); */
+    /* --ifm-table-stripe-background: var(--palette-white-03); */
+}
+
+html[data-theme="dark"] .markdown {
+    --ifm-table-background: var(--palette-white-03);
+    --ifm-table-border-color: var(--palette-dark-v-blue);
+    --ifm-table-head-background: var(--palette-gray);
+    --ifm-table-head-color: var(--palette-white);
+    --ifm-table-stripe-background: var(--palette-white-03);
+    --ifm-table-cell-color: var(--palette-dark-v-white);
 }
 
 .admonition {
@@ -374,11 +386,6 @@ html[data-theme='light']  main article a {
     color: var(--palette-blue-text);
     /* color: #97989E; */
 }
-
-/* html[data-theme="dark"] .docPage {
-    color: var(--palette-green);
-  --ifm-menu-color-background-active: var(--palette-green);
-} */
 
 
 
