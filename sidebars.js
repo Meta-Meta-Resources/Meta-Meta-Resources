@@ -8,10 +8,10 @@ module.exports = {
       type: "doc",
       id: "doc2",
     },
-    {
-      type: "doc",
-      id: "doc4",
-    },
+    // {
+    //   type: "doc",
+    //   id: "doc4",
+    // },
     {
       type: "category",
       label: "Free Online Learning",
