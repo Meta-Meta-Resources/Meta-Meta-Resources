@@ -13,6 +13,6 @@ sidebar_label: MOOCs
 
 [YouTube](https://www.youtube.com)
 
-[Independent Learner Courses](https://oli.cmu.edu/independent-learner-courses)
+[Open Learning Initiative](https://oli.cmu.edu/independent-learner-courses)
 
 [Open Yale Courses](https://oyc.yale.edu)

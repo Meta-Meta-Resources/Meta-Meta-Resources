@@ -19,7 +19,7 @@
 }
 
 html[data-theme="light"] :global(.menu > .menu__list) {
-  background: var(--palette-white-100);
+  background: var(--palette-white-70);
 }
 
 html[data-theme="dark"] :global(.menu > .menu__list) {

@@ -132,7 +132,7 @@ There must be at least 3 dashes separating each header cell. The outer pipes (|)
 | Markdown | Less      | Pretty     |
 | -------- | --------- | ---------- |
 | _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
+| <span>className={styles.cellcolor}; style={{backgroundColor: #fff}}</span>       | 2         | 3          |
 
 ---
 

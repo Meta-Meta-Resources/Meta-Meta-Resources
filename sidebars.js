@@ -5,14 +5,6 @@ module.exports = {
       id: "intro",
     },
     {
-      type: "doc",
-      id: "doc2",
-    },
-    // {
-    //   type: "doc",
-    //   id: "doc4",
-    // },
-    {
       type: "category",
       label: "Free Online Learning",
       items: [
@@ -83,6 +75,70 @@ module.exports = {
               type: "doc",
               id: "opportunities/free-resources-for-students",
           },
+      ],
+    },
+    {
+      type: "category",
+      label: "Running Studies",
+      items: [
+          {
+              type: "category",
+              label: "Germination",
+              items: [
+                  // {
+                  //     type: "doc",
+                  //     id: "opportunities/positions-fellowships-recognition/across-fields",
+                  // },
+                  {
+                      type: "category",
+                      label: "Following the Literature",
+                      items: [
+                          "running-studies/germination/following-the-literature/watching-others"],
+                  },
+              ],
+          },
+          {
+              type: "category",
+              label: "Execution",
+              items: [
+                  {
+                      type: "category",
+                      label: "Study Materials",
+                      items: [
+                          {
+                              type: "doc",
+                              id: "running-studies/execution/online-platforms-communities",
+                          },
+                          {
+                              type: "category",
+                              label: "Stimuli (for free)",
+                              items: [
+                                  {
+                                      type: "category",
+                                      label: "Experimental Stimuli",
+                                      items: [
+                                          "running-studies/execution/stimuli/experiment-stimuli/faces",
+                                          "running-studies/execution/stimuli/experiment-stimuli/linguistics",
+                                          "running-studies/execution/stimuli/experiment-stimuli/everything-else",],
+                                  },
+                              ],
+                          },
+                      ],
+                  },
+              ],
+          },
+          // {
+          //     type: "doc",
+          //     id: "opportunities/example-submissions",
+          // },
+          // {
+          //     type: "doc",
+          //     id: "opportunities/conferences-workshops-summer-schools",
+          // },
+          // {
+          //     type: "doc",
+          //     id: "opportunities/free-resources-for-students",
+          // },
       ],
     },
     {

@@ -15,19 +15,25 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          href: 'https://github.com/meta-meta-resources/meta-meta-resources',
-          label: 'GitHub',
-          position: 'right',
-        },
+          {
+            label: "GitHub",
+            className: "navbar__item--github",
+            href: "https://github.com/meta-meta-resources/meta-meta-resources",
+            position: "right",
+          },
+          {
+            label: "Join Slack",
+            className: "navbar__item--slack",
+            href: "https://github.com/meta-meta-resources/meta-meta-resources",
+            position: "right",
+          },
       ],
     },
-    // algolia: {
-    //   apiKey: 'YOUR_API_KEY',
-    //   indexName: 'YOUR_INDEX_NAME',
-    //   // Options...
-    // },
-
+    algolia: {
+      apiKey: 'f32e7516dde90925c48cd6595498d01e',
+      indexName: 'meta-meta-resources',
+      placeholder: 'Search Meta Meta Resources',
+    },
   },
   presets: [
     [
