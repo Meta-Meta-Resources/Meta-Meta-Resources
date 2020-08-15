@@ -22,6 +22,15 @@ module.exports = {
             items: [
               {
                   type: "category",
+                  label: "Psychology / Neuroscience",
+                  items: [
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/background",
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/select-interactives",],
+              },
+              {
+                  type: "category",
                   label: "Math / Statistics",
                   items: [
                     "online-learning-opportunities/topic-specific/math-statistics/background",
@@ -30,9 +39,15 @@ module.exports = {
               },
               {
                   type: "category",
-                  label: "Free Programming/ Markup/ Stylesheet/ etc Languages",
+                  label: "Free Programming / Markup / Stylesheet / etc Languages",
                   items: [
-                    "online-learning-opportunities/topic-specific/free-coding/r"],
+                    "online-learning-opportunities/topic-specific/free-coding/r",
+                    "online-learning-opportunities/topic-specific/free-coding/python",
+                    "online-learning-opportunities/topic-specific/free-coding/markdown",
+                    "online-learning-opportunities/topic-specific/free-coding/css",
+                    "online-learning-opportunities/topic-specific/free-coding/html",
+                    "online-learning-opportunities/topic-specific/free-coding/regex",
+                    "online-learning-opportunities/topic-specific/free-coding/git",],
               },
             ],
           },

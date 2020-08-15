@@ -8,3 +8,5 @@ sidebar_label: Overview
 [The Neuroscience Information Framework](https://neuinfo.org/)
 
 [Neuroimaging Tutorials and Resources](https://learn-neuroimaging.github.io/tutorials-and-resources/04-processing/)
+
+[Social Psychology Network](https://www.socialpsychology.org)

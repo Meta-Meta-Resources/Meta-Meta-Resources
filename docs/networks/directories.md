@@ -12,4 +12,4 @@ sidebar_label: Directories
 ## By Discipline
 [Language/Linguistics](https://docs.google.com/spreadsheets/d/1WrZuImK---LByMIqw3n_9yaFntq5zOGyttndkhWA1SY/edit#gid=0)
 
-https://www.socialpsychology.org/
+[Social Psychology](https://www.socialpsychology.org/profilesearch.htm)

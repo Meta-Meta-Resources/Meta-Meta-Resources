@@ -1,10 +1,11 @@
 ---
-title: Select (Mostly) Interactives
-sidebar_label: Select (Mostly) Interactives in Psychology/Neuroscience Learning
+title: Select (Mostly) Interactives in Psychology / Neuroscience Learning
+sidebar_label: Select (Mostly) Interactives
 ---
 
 ## General
 [Psychology: An Introduction](https://www.psywww.com/intropsych/index.html)
+
 [Wait But Why Neuralink](https://waitbutwhy.com/2017/04/neuralink.html)
 
 ## Signal Processing
@@ -16,10 +17,11 @@ sidebar_label: Select (Mostly) Interactives in Psychology/Neuroscience Learning
 
 [Let’s learn about waveforms](https://pudding.cool/2018/02/waveforms/)
 
-[Fourier Series by 3Blue1Brown](https://www.3blue1brown.com/videos-blog/but-what-is-a-fourier-series-from-heat-flow-to-circle-drawings-de4)
+[Fourier Series](https://www.3blue1brown.com/videos-blog/but-what-is-a-fourier-series-from-heat-flow-to-circle-drawings-de4)
 
-[Fourier Series](https://www.youtube.com/watch?v=kP02nBNtjrU&list=PLg-OiIIbfPj1brVJ1Oq1VBKHxz9Eafm2t&index=5&t=132s) and [What is the Fourier Transform?](https://www.youtube.com/watch?v=Xxut2PN-V8Q&list=PLg-OiIIbfPj1brVJ1Oq1VBKHxz9Eafm2t&index=5) By Looking Glass Universe
-Fourier Series Demo
+[Fourier Series](https://www.youtube.com/watch?v=kP02nBNtjrU&list=PLg-OiIIbfPj1brVJ1Oq1VBKHxz9Eafm2t&index=5&t=132s) and [What is the Fourier Transform?](https://www.youtube.com/watch?v=Xxut2PN-V8Q&list=PLg-OiIIbfPj1brVJ1Oq1VBKHxz9Eafm2t&index=5)
+
+[Fourier Series Demo](https://lecture-demo.ira.uka.de/fourier-series-demo)
 
 
 ## fMRI
