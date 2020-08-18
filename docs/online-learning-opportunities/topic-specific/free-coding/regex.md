@@ -4,9 +4,8 @@ sidebar_label: Regex
 ---
 
 <br></br>
-<iframe src="https://www.references.net/societies#aswift_1" width="100%" height="900" title="CSS Stacking, Absolute 1"></iframe>
-<figcaption><a href = "https://www.references.net/societies/">Scholarly Societies Project</a></figcaption>
-https://github.com/aloisdg/awesome-regex
+<iframe src="https://webdevscom.github.io/resources/135" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>
+<figcaption><a href = "https://github.com/aloisdg/awesome-regex">github.com/aloisdg/awesome-regex</a></figcaption>
 
 ## Select Interactives
 

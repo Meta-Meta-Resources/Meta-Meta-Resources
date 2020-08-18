@@ -1,6 +1,6 @@
 ---
 title: "Overview: Online Learning Opportunities"
-sidebar_label: Background
+sidebar_label: Overview
 ---
 
 

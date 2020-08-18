@@ -4,7 +4,7 @@ sidebar_label: R
 ---
 
 <br></br>
-<iframe src="https://awesomerank.github.io/lists/qinwf/awesome-R#awesome-r" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>
+<iframe src="https://awesomelists.top/#/repos/qinwf/awesome-R" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>
 <figcaption><a href = "https://github.com/qinwf/awesome-R">github.com/qinwf/awesome-R</a></figcaption>
 
 

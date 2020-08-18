@@ -24,7 +24,7 @@ module.exports = {
           {
             label: "Join Slack",
             className: "navbar__item--slack",
-            href: "https://github.com/meta-meta-resources/meta-meta-resources",
+            href: "https://join.slack.com/t/meta-meta-resources/shared_invite/zt-gr6x1i0k-~VmpJAZPfXKugXEHhajX2g",
             position: "right",
           },
       ],

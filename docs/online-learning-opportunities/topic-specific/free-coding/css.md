@@ -4,7 +4,7 @@ sidebar_label: CSS
 ---
 
 <br></br>
-<iframe src="https://awesomelists.top/#/repos/micromata/awesome-css-learning" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>
+<iframe src="https://webdevscom.github.io/resources/81" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>
 <figcaption><a href = "https://github.com/micromata/awesome-css-learning">github.com/micromata/awesome-css-learning</a></figcaption>
 
 

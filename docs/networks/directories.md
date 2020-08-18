@@ -10,6 +10,9 @@ sidebar_label: Directories
 [German Researchers on PsychAuthors](https://www.psychauthors.de/psychauthors/index.php?lang=EN)
 
 ## By Discipline
+
+[Computational Neuroscience](https://compneuroweb.com)
+
 [Language/Linguistics](https://docs.google.com/spreadsheets/d/1WrZuImK---LByMIqw3n_9yaFntq5zOGyttndkhWA1SY/edit#gid=0)
 
 [Social Psychology](https://www.socialpsychology.org/profilesearch.htm)
