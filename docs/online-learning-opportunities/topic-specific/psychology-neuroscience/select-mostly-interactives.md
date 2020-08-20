@@ -1,5 +1,5 @@
 ---
-title: Select (Mostly) Interactives in Psychology / Neuroscience Learning
+title: Select (Mostly) Interactives for Learning Psychology / Neuroscience
 sidebar_label: Select (Mostly) Interactives
 ---
 
@@ -23,9 +23,6 @@ sidebar_label: Select (Mostly) Interactives
 
 [Fourier Series Demo](https://lecture-demo.ira.uka.de/fourier-series-demo)
 
-
-## fMRI
-[DartBrains](https://dartbrains.org)
 
 ## Other Specific Topics
 [How to remember anything forever-ish](https://ncase.me/remember/)

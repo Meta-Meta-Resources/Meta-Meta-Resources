@@ -1,6 +1,6 @@
 ---
 title: Select Statistics Interactives
-sidebar_label: Select Stats Interactives
+sidebar_label: Select Stats (Mostly) Interactives
 ---
 
 ## General

@@ -1,5 +1,5 @@
 ---
-title: Optical Illusions
+title: A Running Compilation of Optical Illusions
 sidebar_label: Optical Illusions
 ---
 

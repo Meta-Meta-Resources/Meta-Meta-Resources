@@ -355,9 +355,14 @@ html[data-theme='light'] h6 {
 /* Dark Version Headers */
 
 
-html[data-theme='dark'] p, li {
-  color: var(--palette-dark-v-white);
+html[data-theme='dark'] p {
+    color: var(--palette-dark-v-white);
 }
+
+html[data-theme='dark'] li {
+    color: var(--palette-dark-v-white);
+}
+
 
 html[data-theme='dark'] h1 {
     color: var(--palette-dark-v-pink);

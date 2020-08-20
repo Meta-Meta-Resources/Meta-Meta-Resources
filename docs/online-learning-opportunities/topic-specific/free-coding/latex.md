@@ -1,7 +1,9 @@
 ---
-title: Learning LaTeX Overview
+title: Learning LaTeX
 sidebar_label: LaTeX
 ---
+
+## Overview
 
 <br></br>
 <iframe src="https://awesomelists.top/#/repos/egeerardyn/awesome-LaTeX" width="100%" height="500" title="CSS Stacking, Absolute 1"></iframe>

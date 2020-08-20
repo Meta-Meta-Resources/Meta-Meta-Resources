@@ -13,6 +13,4 @@ sidebar_label: Directories
 
 [Computational Neuroscience](https://compneuroweb.com)
 
-[Language/Linguistics](https://docs.google.com/spreadsheets/d/1WrZuImK---LByMIqw3n_9yaFntq5zOGyttndkhWA1SY/edit#gid=0)
-
 [Social Psychology](https://www.socialpsychology.org/profilesearch.htm)

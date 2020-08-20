@@ -6,6 +6,8 @@ sidebar_label: Experiments in the Browser*
 import ColorGenerator from '@site/src/components/ColorGenerator';
 import HeaderSpace from '@site/src/components/HeaderSpace';
 
+One of the best ways to learn about cognitive neuroscience research is actually partaking in it. The following resources link to experiments that anyone can run online, and some of them even have reproducible code which can be used to rebuild the experiment.
+
 |  Title                                                                                                                        | One-Off<HeaderSpace size="70px"/>  | Small Compilation<HeaderSpace size="70px"/>  | Medium Compilation<HeaderSpace size="70px"/>  | Large Compilation<HeaderSpace size="70px"/>  | Reproducible Code<HeaderSpace size="70px"/>  |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|:--------------------------------------------:|:---------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
 | [Online psychology demos by Nick Brosowsky](https://github.com/nbrosowsky/online-psychology-demos)                            |                                    |       <ColorGenerator color="#25c2a0"/>      |                                               |                                              |       <ColorGenerator color="#25c2a0"/>      |

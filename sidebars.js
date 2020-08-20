@@ -24,18 +24,17 @@ module.exports = {
                   type: "category",
                   label: "Psychology / Neuroscience",
                   items: [
-                      "online-learning-opportunities/topic-specific/psychology-neuroscience/overview",
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/select-mostly-interactives",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
-                      "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",
-                      "online-learning-opportunities/topic-specific/psychology-neuroscience/select-interactives",],
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",],
               },
               {
                   type: "category",
                   label: "Math / Statistics",
                   items: [
                     "online-learning-opportunities/topic-specific/math-statistics/overview",
-                    "online-learning-opportunities/topic-specific/math-statistics/select-math-interactives",
-                    "online-learning-opportunities/topic-specific/math-statistics/select-stats-interactives",],
+                    "online-learning-opportunities/topic-specific/math-statistics/select-math-mostly-interactives",
+                    "online-learning-opportunities/topic-specific/math-statistics/select-stats-mostly-interactives",],
               },
               {
                   type: "category",
@@ -94,7 +93,7 @@ module.exports = {
           },
           {
               type: "doc",
-              id: "opportunities/free-resources-for-students",
+              id: "opportunities/free-products-for-students",
           },
       ],
     },
@@ -203,14 +202,74 @@ module.exports = {
       ],
     },
     {
-      type: "category",
-      label: "Networks",
-      items: ["networks/directories", "networks/organizations"],
+        type: "category",
+        label: "Networks",
+        items: [
+            {
+                type: "doc",
+                id: "networks/directories",
+            },
+            {
+                type: "doc",
+                id: "networks/organizations",
+            },
+            {
+                type: "category",
+                label: "Organizations",
+                items: [
+                    {
+                        type: "doc",
+                        id: "networks/organizations/discipline-specific",
+                    },
+                    {
+                        type: "category",
+                        label: "Location-Concentrated",
+                        items: [
+                            {
+                                type: "doc",
+                                id: "networks/organizations/location-concentrated/africa",
+                            },
+                            {
+                                type: "doc",
+                                id: "networks/organizations/location-concentrated/asia-pacific",
+                            },
+                            {
+                                type: "doc",
+                                id: "networks/organizations/location-concentrated/latin-america",
+                            },
+                            {
+                                type: "doc",
+                                id: "networks/organizations/location-concentrated/pan-europe",
+                            },
+                            {
+                                type: "category",
+                                label: "U.S. + Canada",
+                                items: ["networks/organizations/location-concentrated/us-canada/non-regional",
+                                        "networks/organizations/location-concentrated/us-canada/states",
+                                        "networks/organizations/location-concentrated/us-canada/regional",],
+                            },
+                        ],
+                    },
+                    {
+                        type: "doc",
+                        id: "networks/organizations/for-underrepresented-groups",
+                    },
+                    {
+                        type: "doc",
+                        id: "networks/organizations/open-science",
+                    },
+                ],
+            },
+        ],
     },
     {
-      type: "category",
-      label: "Contributing",
-      items: ["contributing/getting-involved", "contributing/contributors"],
+        type: "category",
+        label: "Contributing",
+        items: ["contributing/getting-involved",
+                "contributing/contributors",
+                "contributing/coarse-guidelines",
+                "contributing/areas-most-lacking-currently",
+                "contributing/ripe-for-addition"],
     },
 ].filter(Boolean),
 };

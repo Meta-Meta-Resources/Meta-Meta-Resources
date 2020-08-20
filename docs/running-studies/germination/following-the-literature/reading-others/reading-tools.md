@@ -1,19 +1,19 @@
 ---
 title: Reading Tools (for free)
-sidebar_label: Reading Tools (for free)
+sidebar_label: Reading Tools (for free)*
 ---
 
 ## Citation Managers
 
 [Wikipedia Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
-## Summarizing
+## Using AI to summarize papers
 
 [Scholarcy](https://www.scholarcy.com)
 
 [Paper Digest](https://www.paper-digest.com)
 
-## Statistical Interpreting
+## Interpreting Statistics
 
 [statcheck](http://statcheck.io)
 
@@ -21,6 +21,6 @@ sidebar_label: Reading Tools (for free)
 
 [*p*-checker](https://shinyapps.org/apps/p-checker)
 
-## Commenting
+## Viewing and Adding Public Comments / Feedback to Papers
 
 [ReimagineReview](https://reimaginereview.asapbio.org)

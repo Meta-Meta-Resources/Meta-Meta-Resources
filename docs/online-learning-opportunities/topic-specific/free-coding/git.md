@@ -1,5 +1,5 @@
 ---
-title: Learning Git Overview
+title: Learning Git
 sidebar_label: Git
 ---
 
