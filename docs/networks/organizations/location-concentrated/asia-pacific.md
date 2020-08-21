@@ -7,7 +7,6 @@ sidebar_label: Asia-Pacific*
 |------------------|
 | [Acoustical Society of Korea](http://www.ask.or.kr/) |
 | [Arab Union of Psychological Science](https://www.aupsys.org/) |
-| [ASEAN Regional Union of Psychological Societies](https://uia.org/s/or/en/1100022553) |
 | [Asia-Pacific Peace Research Association](https://appra.net/) |
 | [Asian Psychological Association](https://apsya.org/) |
 | [Asian-South Pacific Association for Sport Psychology](http://www.aspasp.org/) |
