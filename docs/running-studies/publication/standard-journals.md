@@ -3,7 +3,7 @@ title: Standard Journals
 sidebar_label: Standard Journals
 ---
 
-Almost every journals falls under this category. You may search for journals by topic, or you may want to know about a journal's preprint policies. The following databases each fill a different role. Also see [the page on pre-registrations](running-studies/preparation/pre-reg-journals) for journals that are pre-registration-compatible.
+Almost every journals falls under this category. You may search for journals by topic, or you may want to know about a journal's preprint policies. The following databases each fill a different role. Also see [the page on pre-registrations](/running-studies/preparation/pre-reg-journals) for journals that are pre-registration-compatible.
 
 | Resource | Description |
 |----------|-------------|
