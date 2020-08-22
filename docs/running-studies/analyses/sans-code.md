@@ -1,6 +1,6 @@
 ---
 title: Analyses Sans Code (for free)
-sidebar_label: Sans Code (for free)
+sidebar_label: Sans Code (for free)*
 ---
 
 
