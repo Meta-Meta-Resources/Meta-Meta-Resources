@@ -24,6 +24,7 @@ module.exports = {
                   type: "category",
                   label: "Psychology / Neuroscience",
                   items: [
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/neuroscience-ontology",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/select-mostly-interactives",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",],
@@ -151,30 +152,28 @@ module.exports = {
               label: "Execution",
               items: [
                   {
+                      type: "doc",
+                      id: "running-studies/execution/online-platforms-communities",
+                  },
+                  {
+                      type: "doc",
+                      id: "running-studies/execution/in-person-software",
+                  },
+                  {
                       type: "category",
-                      label: "Study Materials",
+                      label: "Stimuli (for free)",
                       items: [
                           {
-                              type: "doc",
-                              id: "running-studies/execution/online-platforms-communities",
+                              type: "category",
+                              label: "Experimental Stimuli",
+                              items: [
+                                  "running-studies/execution/stimuli/experiment-stimuli/faces",
+                                  "running-studies/execution/stimuli/experiment-stimuli/linguistics",
+                                  "running-studies/execution/stimuli/experiment-stimuli/everything-else",],
                           },
                           {
-                              type: "category",
-                              label: "Stimuli (for free)",
-                              items: [
-                                  {
-                                      type: "category",
-                                      label: "Experimental Stimuli",
-                                      items: [
-                                          "running-studies/execution/stimuli/experiment-stimuli/faces",
-                                          "running-studies/execution/stimuli/experiment-stimuli/linguistics",
-                                          "running-studies/execution/stimuli/experiment-stimuli/everything-else",],
-                                  },
-                                  {
-                                      type: "doc",
-                                      id: "running-studies/execution/stimuli/stock-resources",
-                                  },
-                              ],
+                              type: "doc",
+                              id: "running-studies/execution/stimuli/stock-resources",
                           },
                       ],
                   },
@@ -187,6 +186,10 @@ module.exports = {
                   {
                       type: "doc",
                       id: "running-studies/analyses/sans-code",
+                  },
+                  {
+                      type: "doc",
+                      id: "running-studies/analyses/with-code",
                   },
               ],
           },
@@ -208,10 +211,6 @@ module.exports = {
             {
                 type: "doc",
                 id: "networks/directories",
-            },
-            {
-                type: "doc",
-                id: "networks/organizations",
             },
             {
                 type: "category",

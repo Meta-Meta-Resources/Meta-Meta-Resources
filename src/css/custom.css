@@ -196,7 +196,7 @@ html[data-theme='dark'] .pagination-nav {
 
 
 html[data-theme='light'] .pagination-nav__item--next .pagination-nav__link {
-  background: var(--palette-light-v-orange);
+  background: var(--ifm-color-primary);
 }
 
 html[data-theme='light'] .pagination-nav__link {
@@ -204,7 +204,7 @@ html[data-theme='light'] .pagination-nav__link {
 }
 
 html[data-theme='dark'] .pagination-nav__item--next .pagination-nav__link {
-  background: var(--palette-dark-v-yellow);
+  background: var(--ifm-color-primary);
 }
 
 html[data-theme='dark'] .pagination-nav__link {
@@ -230,6 +230,31 @@ main article header h2 a {
 
 .DocSearch-Button-Key {
   display: none !important;
+}
+
+.button.button--secondary.button--sm.menu__button {
+  color: var(--ifm-color-secondary);
+  height: 70px;
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 1000;
+  width: 70px;
+  padding: 0.5rem 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(0,0,0,0.2);
+}
+
+html[data-theme='light'] .button.button--secondary.button--sm.menu__button {
+  background: var(--palette-light-v-head);
+}
+
+html[data-theme='dark'] .button.button--secondary.button--sm.menu__button {
+  background: var(--palette-dark-v-pink);
+}
+
+.menu.menu--responsive.menu--show  {
+  background-color:var(--ifm-background-color);
 }
 
 @media (max-width: 996px) {
@@ -392,7 +417,7 @@ p {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 h2 {
@@ -415,8 +440,12 @@ h6 {
   font-size: 13.6px;
 }
 
-hr {
-    border-color: #E6ECF0;
+html[data-theme='light'] hr {
+    border-color: var(--ifm-color-primary);
+}
+
+html[data-theme='dark'] hr {
+    border-color: var(--ifm-color-primary);
 }
 
 iframe {
