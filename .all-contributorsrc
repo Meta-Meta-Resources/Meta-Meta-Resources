@@ -17,6 +17,15 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "maria-khoudary",
+      "name": "Maria Khoudary",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/55160213?v=4",
+      "profile": "https://imclab.org/people",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
