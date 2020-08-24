@@ -1,6 +1,6 @@
 ---
 title: Reading Tools (for free)
-sidebar_label: Reading Tools (for free)*
+sidebar_label: Reading Tools (for free)
 ---
 
 ## Citation Managers

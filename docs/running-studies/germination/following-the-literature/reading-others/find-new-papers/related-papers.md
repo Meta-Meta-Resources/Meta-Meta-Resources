@@ -1,6 +1,6 @@
 ---
 title: Services for Finding Related Papers
-sidebar_label: Related Papers*
+sidebar_label: Related Papers
 ---
 
 | Resource | Description |

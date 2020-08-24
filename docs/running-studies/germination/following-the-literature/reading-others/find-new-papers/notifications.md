@@ -1,6 +1,6 @@
 ---
 title: Journal Notification Sites
-sidebar_label: Notifications*
+sidebar_label: Notifications
 ---
 
 [Scitrus](https://www.scitrus.com)

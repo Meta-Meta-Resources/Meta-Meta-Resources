@@ -145,7 +145,7 @@ module.exports = {
               label: "Preparation",
               items: [
                   "running-studies/preparation/pre-reg-repos",
-              "running-studies/preparation/pre-reg-journals",]
+                  "running-studies/preparation/reg-reports-journals",]
           },
           {
               type: "category",

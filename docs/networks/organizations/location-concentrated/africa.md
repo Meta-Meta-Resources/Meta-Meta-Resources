@@ -1,6 +1,6 @@
 ---
 title: Africa-Concentrated Psychology and Neuroscience Organizations
-sidebar_label: Africa*
+sidebar_label: Africa
 ---
 
 | Organization Name |

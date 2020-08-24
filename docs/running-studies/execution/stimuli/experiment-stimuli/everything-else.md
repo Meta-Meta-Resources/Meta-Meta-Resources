@@ -1,6 +1,6 @@
 ---
 title: Non Face, non Computer Vision, non Linguistics Stimuli
-sidebar_label: Everything Else*
+sidebar_label: Everything Else
 ---
 
 | Dataset                                                                                                                                                                               | Description                                                                                                                                                                                                                  |

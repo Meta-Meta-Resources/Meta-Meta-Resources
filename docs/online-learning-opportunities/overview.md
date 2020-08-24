@@ -3,6 +3,8 @@ title: "Overview: Online Learning Opportunities"
 sidebar_label: Overview
 ---
 
+These resources aren't topic-specific, and they're incredibly comprehensive. They're a good place to start for any subject.
+
 | Resource | Description |
 |----------|-------------|
 | [The Mason OER Metafinder](https://oer.deepwebaccess.com/oer/desktop/en/search.html) | The Mason OER Metafinder helps you find open educational materials with a search across 21 different sources of open educational sites. |

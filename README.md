@@ -3,7 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Contributors ✨
+Welcome! The aim of this website and its [corresponding website](https://meta-meta-resources.org) is to centralize resources for cognitive neuroscience research. To do so, it builds off existing resources, and the contents on each page coalesce to form a sort of meta-resource for that domain. Sometimes, such a meta resource already exists, in which the website simply embeds it. The web book is composed of well-maintained, open-source, and freely-accessible resources in practically every domain, except for example for a list of online experiment recruitment platforms which by their nature cost money. Together, all the web pages in turn coalesce to form a meta resource of meta resources for cognitive neuroscience.
+
+If you have resources to share, please see page the [Getting Involved](https://meta-meta-resources.org/contributing/getting-involved).
+
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 

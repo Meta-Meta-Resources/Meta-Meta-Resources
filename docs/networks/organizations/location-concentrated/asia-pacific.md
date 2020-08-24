@@ -1,6 +1,6 @@
 ---
 title: Asia-Pacific-Concentrated Psychology and Neuroscience Organizations
-sidebar_label: Asia-Pacific*
+sidebar_label: Asia-Pacific
 ---
 
 | Organization Name |

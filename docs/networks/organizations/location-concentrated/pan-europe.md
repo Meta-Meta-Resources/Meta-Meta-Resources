@@ -1,6 +1,6 @@
 ---
 title: Pan-Europe-Concentrated Psychology and Neuroscience Organizations
-sidebar_label: Pan Europe*
+sidebar_label: Pan Europe
 ---
 
 | Organization Name |

@@ -3,6 +3,8 @@ title: A Running Compilation of Optical Illusions
 sidebar_label: Optical Illusions
 ---
 
+This page is a running list of optical illusion compilations.
+
 [Perception and Illusion](http://hua.umf.maine.edu/psychology/psychurl.html)
 
 ["Reality": Construction, Deconstruction, and Reconstruction](https://serendipstudio.org/bb/)

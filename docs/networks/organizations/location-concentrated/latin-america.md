@@ -1,6 +1,6 @@
 ---
 title: Latin America-Concentrated Psychology and Neuroscience Organizations
-sidebar_label: Latin America*
+sidebar_label: Latin America
 ---
 
 | Organization Name |

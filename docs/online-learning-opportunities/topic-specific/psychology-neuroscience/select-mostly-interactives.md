@@ -3,6 +3,8 @@ title: Select (Mostly) Interactives for Learning Psychology / Neuroscience
 sidebar_label: Select (Mostly) Interactives
 ---
 
+The following are visual and interactive demonstrations of topics in psychology and neuroscience. Also see this web book's [Online Learning Overview](/online-learning-opportunities/overview) and [Massive Open Online Courses](/online-learning-opportunities/moocs) pages, which encompass psychology (but also other topics') resources as well. For example, the [EbookFoundation](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md#bf-psychology), listed under [Online Learning Overview](/online-learning-opportunities/overview), hosts almost a dozen free textbooks from psychology and neuroscience.
+
 ## General
 [Psychology: An Introduction](https://www.psywww.com/intropsych/index.html)
 

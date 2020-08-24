@@ -1,4 +1,4 @@
 ---
 title: List of Conferences
-sidebar_label: Conferences*
+sidebar_label: Conferences
 ---

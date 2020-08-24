@@ -1,6 +1,6 @@
 ---
 title: Discipline-Specific Organizations in Psychology and Neuroscience
-sidebar_label: Discipline-Specific*
+sidebar_label: Discipline-Specific
 ---
 
 This list is in large part thanks to the retired Scholarly Societies Project

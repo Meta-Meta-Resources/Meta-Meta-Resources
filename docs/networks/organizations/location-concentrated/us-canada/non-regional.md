@@ -1,6 +1,6 @@
 ---
 title: Non-Regional American and Canadian Psychology and Neuroscience Organizations
-sidebar_label: Non-Regional*
+sidebar_label: Non-Regional
 ---
 
 | Organization Name |
