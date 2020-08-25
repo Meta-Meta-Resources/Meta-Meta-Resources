@@ -1,6 +1,6 @@
 ---
-title: Select Statistics Interactives
-sidebar_label: Select Stats (Mostly) Interactives
+title: Select Statistics Interactives and Visualizations
+sidebar_label: Select Stats Interactives + Visualizations
 ---
 
 ## General

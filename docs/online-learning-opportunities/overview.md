@@ -1,5 +1,5 @@
 ---
-title: "Overview: Online Learning Opportunities"
+title: "Overview of Online Learning Opportunities"
 sidebar_label: Overview
 ---
 

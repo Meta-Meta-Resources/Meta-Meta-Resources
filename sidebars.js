@@ -25,7 +25,7 @@ module.exports = {
                   label: "Psychology / Neuroscience",
                   items: [
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/neuroscience-ontology",
-                      "online-learning-opportunities/topic-specific/psychology-neuroscience/select-mostly-interactives",
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/select-interactives-visualizations",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",],
               },
@@ -34,8 +34,8 @@ module.exports = {
                   label: "Math / Statistics",
                   items: [
                     "online-learning-opportunities/topic-specific/math-statistics/overview",
-                    "online-learning-opportunities/topic-specific/math-statistics/select-math-mostly-interactives",
-                    "online-learning-opportunities/topic-specific/math-statistics/select-stats-mostly-interactives",],
+                    "online-learning-opportunities/topic-specific/math-statistics/select-math-interactives-visualizations",
+                    "online-learning-opportunities/topic-specific/math-statistics/select-stats-interactives-visualizations",],
               },
               {
                   type: "category",
@@ -60,25 +60,10 @@ module.exports = {
       label: "Opportunities",
       items: [
           {
-              type: "doc",
-              id: "opportunities/grant-databases",
-          },
-          {
               type: "category",
-              label: "Positions + Fellowships + Recognition",
-              items: [
-                  {
-                      type: "doc",
-                      id: "opportunities/positions-fellowships-recognition/across-fields",
-                  },
-                  {
-                      type: "category",
-                      label: "Only Psychology/Neuroscience",
-                      items: [
-                          "opportunities/positions-fellowships-recognition/only-psychology-neuroscience/mostly-positions-fellowships",
-                          "opportunities/positions-fellowships-recognition/only-psychology-neuroscience/mostly-awards"],
-                  },
-              ],
+              label: "Positions + Funding Fellowships + Recognition",
+              items: ["opportunities/positions-funding-fellowships-recognition/across-fields",
+                      "opportunities/positions-funding-fellowships-recognition/psychology-neuroscience",],
           },
           {
               type: "doc",
@@ -206,58 +191,68 @@ module.exports = {
     },
     {
         type: "category",
-        label: "Networks",
+        label: "Communities",
         items: [
             {
-                type: "doc",
-                id: "networks/directories",
-            },
-            {
                 type: "category",
-                label: "Organizations",
+                label: "Networks",
                 items: [
                     {
                         type: "doc",
-                        id: "networks/organizations/discipline-specific",
+                        id: "communities/networks/directories",
                     },
                     {
                         type: "category",
-                        label: "Location-Concentrated",
+                        label: "Organizations",
                         items: [
                             {
                                 type: "doc",
-                                id: "networks/organizations/location-concentrated/africa",
-                            },
-                            {
-                                type: "doc",
-                                id: "networks/organizations/location-concentrated/asia-pacific",
-                            },
-                            {
-                                type: "doc",
-                                id: "networks/organizations/location-concentrated/latin-america",
-                            },
-                            {
-                                type: "doc",
-                                id: "networks/organizations/location-concentrated/pan-europe",
+                                id: "communities/networks/organizations/discipline-specific",
                             },
                             {
                                 type: "category",
-                                label: "U.S. + Canada",
-                                items: ["networks/organizations/location-concentrated/us-canada/non-regional",
-                                        "networks/organizations/location-concentrated/us-canada/states",
-                                        "networks/organizations/location-concentrated/us-canada/regional",],
+                                label: "Location-Concentrated",
+                                items: [
+                                    {
+                                        type: "doc",
+                                        id: "communities/networks/organizations/location-concentrated/africa",
+                                    },
+                                    {
+                                        type: "doc",
+                                        id: "communities/networks/organizations/location-concentrated/asia-pacific",
+                                    },
+                                    {
+                                        type: "doc",
+                                        id: "communities/networks/organizations/location-concentrated/latin-america",
+                                    },
+                                    {
+                                        type: "doc",
+                                        id: "communities/networks/organizations/location-concentrated/pan-europe",
+                                    },
+                                    {
+                                        type: "category",
+                                        label: "U.S. + Canada",
+                                        items: ["communities/networks/organizations/location-concentrated/us-canada/non-regional",
+                                                "communities/networks/organizations/location-concentrated/us-canada/states",
+                                                "communities/networks/organizations/location-concentrated/us-canada/regional",],
+                                    },
+                                ],
+                            },
+                            {
+                                type: "doc",
+                                id: "communities/networks/organizations/for-underrepresented-groups",
+                            },
+                            {
+                                type: "doc",
+                                id: "communities/networks/organizations/open-science",
                             },
                         ],
                     },
-                    {
-                        type: "doc",
-                        id: "networks/organizations/for-underrepresented-groups",
-                    },
-                    {
-                        type: "doc",
-                        id: "networks/organizations/open-science",
-                    },
                 ],
+            },
+            {
+                type: "doc",
+                id: "communities/lab-guides-manuals",
             },
         ],
     },

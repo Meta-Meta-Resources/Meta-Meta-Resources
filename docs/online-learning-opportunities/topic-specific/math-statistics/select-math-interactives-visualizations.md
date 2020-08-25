@@ -1,6 +1,6 @@
 ---
-title: Select Math (Mostly) Interactives
-sidebar_label: Select Math Interactives
+title: Select Math Interactives and Visualizations
+sidebar_label: Select Math Interactives + Visualizations
 ---
 
 ## General

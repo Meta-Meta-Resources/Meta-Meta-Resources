@@ -3,9 +3,9 @@ title: Learning Git
 sidebar_label: Git
 ---
 
-The items below are visual and interactive demonstrations of concepts in CSS. Also see this web book's [Online Learning Overview](/online-learning-opportunities/overview) and [Massive Open Online Courses](/online-learning-opportunities/moocs) pages, which encompass Git (but also other topics') resources as well.
+The items below are visual and interactive demonstrations of concepts in Git. Also see this web book's [Online Learning Overview](/online-learning-opportunities/overview) and [Massive Open Online Courses](/online-learning-opportunities/moocs) pages, which encompass Git (but also other topics') resources as well.
 
-## Select Interactives
+## Select Interactives and Visualizations
 
 [Install Git](https://www.atlassian.com/git/tutorials/install-git)
 

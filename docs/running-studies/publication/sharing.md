@@ -12,3 +12,5 @@ sidebar_label: Sharing
 [Sherpa Services](https://v2.sherpa.ac.uk)
 
 [Registry of Scientometric Data Sources](https://labs.tib.eu/rosi)
+
+[Kudos](https://www.growkudos.com)
