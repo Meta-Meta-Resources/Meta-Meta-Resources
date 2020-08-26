@@ -94,10 +94,10 @@ function DocItem(props) {
         {keywords && keywords.length && (
           <meta name="keywords" content={keywords.join(',')} />
         )}
-        {metaImage && <meta property="og:image" content={`https://meta-meta-resources.org/img/social-logo.png`} />}
-        {metaImage && <meta property="twitter:image" content={`https://meta-meta-resources.org/img/social-logo.png`} />}
+        {metaImage && <meta property="og:image" content={`${url}/img/social-logo.png`} />}
+        {metaImage && <meta property="twitter:image" content={`${url}/img/social-logo.png`} />}
         {metaImage && (
-          <meta name="twitter:image:alt" content={`http://meta-meta-resources.org/img/social-logo.png`} />
+          <meta name="twitter:image:alt" content={`Image for ${title}`} />
         )}
         {permalink && <meta property="og:url" content={siteUrl + permalink} />}
         {permalink && <link rel="canonical" href={siteUrl + permalink} />}
