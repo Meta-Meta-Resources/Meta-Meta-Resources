@@ -3,6 +3,8 @@ title: Select Statistics Interactives and Visualizations
 sidebar_label: Select Stats Interactives + Visualizations
 ---
 
+These resources have been hand-picked for their easy-to-follow interfaces and general helpfulness. They are in no way meant to be a complete picture of resources—the closest thing to that is the [Math Overview Page](/online-learning-opportunities/topic-specific/math-statistics/overview), aka [Awesome Math](https://github.com/rossant/awesome-math).
+
 ## General
 [Seeing Theory](https://seeing-theory.brown.edu/)
 

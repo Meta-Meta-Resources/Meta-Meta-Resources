@@ -3,6 +3,8 @@ title: "Massive Open Online Courses for Free"
 sidebar_label: MOOCs
 ---
 
+Most of the following resources cover a wide array of topics and are of course free!
+
 | Resource | Description|
 |----------|------------|
 | [MOOC List](https://www.mooc-list.com/multiple-criteria) | Aggregates the search indexes across the big-name MOOC websites like Coursera, EdX, etc. so that you don't have to search each of those websites separately |

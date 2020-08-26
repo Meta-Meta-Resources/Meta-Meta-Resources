@@ -5,7 +5,7 @@ sidebar_label: Reading Tools (for free)
 
 ## Citation Managers
 
-[Wikipedia Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+[Wikipedia List of Reference Management Software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
 ## Using AI to summarize papers
 
