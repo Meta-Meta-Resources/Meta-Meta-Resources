@@ -16,7 +16,6 @@ import styles from './styles.module.css';
 const LINK_CLASS_NAME = 'table-of-contents__link';
 const ACTIVE_LINK_CLASS_NAME = 'table-of-contents__link--active';
 const TOP_OFFSET = 100;
-const testing = "https://i.imgur.com/mErPwqL.png";
 
 function DocTOC({headings}) {
   useTOCHighlight(LINK_CLASS_NAME, ACTIVE_LINK_CLASS_NAME, TOP_OFFSET);
@@ -73,7 +72,7 @@ function DocItem(props) {
   } = metadata;
   const {
     frontMatter: {
-      image: testing,
+      image: metaImage,
       keywords,
       hide_title: hideTitle,
       hide_table_of_contents: hideTableOfContents,
@@ -95,10 +94,10 @@ function DocItem(props) {
         {keywords && keywords.length && (
           <meta name="keywords" content={keywords.join(',')} />
         )}
-        {metaImage && <meta property="og:image" content={metaImageUrl} />}
-        {metaImage && <meta property="twitter:image" content={metaImageUrl} />}
+        {metaImage && <meta property="og:image" content="https://i.imgur.com/mErPwqL.png" />}
+        {metaImage && <meta property="twitter:image" content="https://i.imgur.com/mErPwqL.png" />}
         {metaImage && (
-          <meta name="twitter:image:alt" content={`Image for ${title}`} />
+          <meta name="twitter:image:alt" content="https://i.imgur.com/mErPwqL.png" />
         )}
         {permalink && <meta property="og:url" content={siteUrl + permalink} />}
         {permalink && <link rel="canonical" href={siteUrl + permalink} />}
