@@ -7,7 +7,7 @@ There are quite a few topics that this meta meta resource has not covered in-dep
 
 * Organizations supporting underrepresented groups in STEM. Additions can go under the [eponymous page](/communities/networks/organizations/for-underrepresented-groups).
 
-* Lists of psychology and neuroscience conferences. Additions can go under the [eponymous page](/opportunities/conferences)
+* Lists of psychology and neuroscience conferences. Additions can go under the [eponymous page](/opportunities/conferences).
 
 * Resources for learning free programming languages that are not currently in the Free Programming / Markup Stylesheets / etc Languages subsection, like Ruby, PHP, or Julia.
 

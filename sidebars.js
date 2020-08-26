@@ -199,6 +199,10 @@ module.exports = {
                 items: [
                     {
                         type: "doc",
+                        id: "communities/networks/presences",
+                    },
+                    {
+                        type: "doc",
                         id: "communities/networks/directories",
                     },
                     {
