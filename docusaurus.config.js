@@ -5,8 +5,8 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Meta Meta Resources', // Usually your GitHub org/user name.
+  projectName: 'Meta Meta Resources', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'A Meta Resource of Meta Resources for Cognitive Neuroscience',

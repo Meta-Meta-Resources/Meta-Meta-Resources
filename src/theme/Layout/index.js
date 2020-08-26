@@ -64,10 +64,10 @@ function Layout(props) {
         {keywords && keywords.length && (
           <meta name="keywords" content={keywords.join(',')} />
         )}
-        {metaImage && <meta property="og:image" content="https://next-auth.js.org/img/social-media-card.png" />}
-        {metaImage && <meta property="twitter:image" content="https://next-auth.js.org/img/social-media-card.png" />}
+        {metaImage && <meta property="og:image" content={`${url}/img/social-media-card.png`} />}
+        {metaImage && <meta property="twitter:image" content={`${url}/img/social-media-card.png`} />}
         {metaImage && (
-          <meta name="twitter:image:alt" content="https://next-auth.js.org/img/social-media-card.png" />
+          <meta name="twitter:image:alt" content={`Image for ${metaTitle}`} />
         )}
         {permalink && <meta property="og:url" content={siteUrl + permalink} />}
         {permalink && <link rel="canonical" href={siteUrl + permalink} />}
