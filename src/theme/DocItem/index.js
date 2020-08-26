@@ -16,6 +16,7 @@ import styles from './styles.module.css';
 const LINK_CLASS_NAME = 'table-of-contents__link';
 const ACTIVE_LINK_CLASS_NAME = 'table-of-contents__link--active';
 const TOP_OFFSET = 100;
+const testing = "https://i.imgur.com/mErPwqL.png";
 
 function DocTOC({headings}) {
   useTOCHighlight(LINK_CLASS_NAME, ACTIVE_LINK_CLASS_NAME, TOP_OFFSET);
@@ -72,7 +73,7 @@ function DocItem(props) {
   } = metadata;
   const {
     frontMatter: {
-      image: metaImage,
+      image: testing,
       keywords,
       hide_title: hideTitle,
       hide_table_of_contents: hideTableOfContents,
