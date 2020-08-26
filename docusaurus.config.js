@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Meta Meta Resources',
+  title: 'Meta-Meta-Resources',
   tagline: 'The tagline of my site',
   url: 'https://meta-meta-resources.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'Meta Meta Resources', // Usually your GitHub org/user name.
-  projectName: 'Meta Meta Resources', // Usually your repo name.
+  organizationName: 'Meta-Meta-Resources', // Usually your GitHub org/user name.
+  projectName: 'Meta-Meta-Resources', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'A Meta Resource of Meta Resources for Cognitive Neuroscience',
+      title: 'A Meta-Resource of Meta-Resources for Cognitive Neuroscience',
       logo: {
-        alt: 'Meta Meta Resources Logo',
+        alt: 'Meta-Meta-Resources Logo',
         src: 'img/logo.svg',
       },
       items: [
