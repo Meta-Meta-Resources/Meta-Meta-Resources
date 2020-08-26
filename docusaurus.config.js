@@ -28,13 +28,13 @@ module.exports = {
             position: "right",
           },
       ],
-      image: 'img/social-media-card.png'
     },
     algolia: {
       apiKey: 'f32e7516dde90925c48cd6595498d01e',
       indexName: 'meta-meta-resources',
       placeholder: 'Search Meta Meta Resources',
     },
+    image: 'img/social-media-card.png',
   },
   presets: [
     [
