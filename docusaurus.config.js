@@ -34,7 +34,7 @@ module.exports = {
       indexName: 'meta-meta-resources',
       placeholder: 'Search Meta Meta Resources',
     },
-    image: 'img/social-media-card.png',
+    image: 'img/social-media-card-blue.png',
   },
   presets: [
     [

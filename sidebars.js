@@ -91,10 +91,6 @@ module.exports = {
               type: "category",
               label: "Germination",
               items: [
-                  // {
-                  //     type: "doc",
-                  //     id: "opportunities/positions-fellowships-recognition/across-fields",
-                  // },
                   {
                       type: "category",
                       label: "Following the Literature",
@@ -123,6 +119,10 @@ module.exports = {
                           }
                       ],
                   },
+                  {
+                      type: "doc",
+                      id: "running-studies/germination/databases"
+                  }
               ],
           },
           {
@@ -154,6 +154,7 @@ module.exports = {
                               items: [
                                   "running-studies/execution/stimuli/experiment-stimuli/faces",
                                   "running-studies/execution/stimuli/experiment-stimuli/linguistics",
+                                  "running-studies/execution/stimuli/experiment-stimuli/computer-vision",
                                   "running-studies/execution/stimuli/experiment-stimuli/everything-else",],
                           },
                           {

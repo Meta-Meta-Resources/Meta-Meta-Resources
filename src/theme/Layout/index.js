@@ -64,8 +64,8 @@ function Layout(props) {
         {keywords && keywords.length && (
           <meta name="keywords" content={keywords.join(',')} />
         )}
-        {metaImage && <meta property="og:image" content="https://meta-meta-resources.org/img/social-media-card.png" />}
-        {metaImage && <meta property="twitter:image" content="https://meta-meta-resources.org/img/social-media-card.png" />}
+        {metaImage && <meta property="og:image" content="https://meta-meta-resources.org/img/social-media-card-blue.png" />}
+        {metaImage && <meta property="twitter:image" content="https://meta-meta-resources.org/img/social-media-card-blue.png" />}
         {metaImage && (
           <meta name="twitter:image:alt" content={`Image for ${metaTitle}`} />
         )}
