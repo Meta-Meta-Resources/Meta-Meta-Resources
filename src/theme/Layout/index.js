@@ -67,7 +67,7 @@ function Layout(props) {
         {metaImage && <meta property="og:image" content="https://meta-meta-resources.org/img/social-media-card.png" />}
         {metaImage && <meta property="twitter:image" content="https://meta-meta-resources.org/img/social-media-card.png" />}
         {metaImage && (
-          <meta name="twitter:image:alt" content="https://meta-meta-resources.org/img/social-media-card.png" />
+          <meta name="twitter:image:alt" content={`Image for ${metaTitle}`} />
         )}
         {permalink && <meta property="og:url" content={siteUrl + permalink} />}
         {permalink && <link rel="canonical" href={siteUrl + permalink} />}
