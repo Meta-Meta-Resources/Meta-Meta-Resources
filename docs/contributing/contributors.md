@@ -10,4 +10,8 @@ Thanks to everyone who has played a role in this project, even and especially th
     <td align="center"><a href="https://jackdolgin.org"><img src="https://avatars0.githubusercontent.com/u/29798528" width="325px;" alt=""/><br /><sub><b>Jack Dolgin</b></sub></a><br /><a href="https://github.com/Meta-Meta-Resources/Meta-Meta-Resources/commits?author=jackdolgin" title="Code">💻</a> <a title="Design">🎨</a> <a href="https://github.com/Meta-Meta-Resources/Meta-Meta-Resources/commits?author=jackdolgin" title="Documentation">📖</a> <a title="Ideas, Planning, & Feedback">🤔</a> <a title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/maria-khoudary"><img src="https://avatars2.githubusercontent.com/u/55160213" width="325px;" alt=""/><br /><sub><b>Maria Khoudary</b></sub></a><br /><a href="https://meta-meta-resources.org/img/social-media-card-blue.png" target="_blank" title="Design">🎨</a> <a title="Documentation">📖</a> </td>
   </tr>
+  <tr>
+  <td align="center"><a href="https://tomdonoghue.github.io"><img src="https://pbs.twimg.com/profile_images/515965554771767297/sxjR3wjQ_400x400.jpeg" width="325px;" alt=""/><br /><sub><b>Tom Donoghue</b></sub></a><br /><a href="https://github.com/Meta-Meta-Resources/Meta-Meta-Resources/search?q=tom+donoghue" title="Documentation">📖</a> </td>
+  <td align="center"><a href="http://felixhenninger.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Felix_Henninger.jpg" width="325px;" alt=""/><br /><sub><b>Felix Henninger</b></sub></a><br /><a href="https://github.com/Meta-Meta-Resources/Meta-Meta-Resources/commits?author=felixhenninger" title="Documentation">📖</a> </td>
+  </tr>
 </table>

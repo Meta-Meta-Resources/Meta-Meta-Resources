@@ -24,6 +24,7 @@ module.exports = {
                   type: "category",
                   label: "Psychology / Neuroscience",
                   items: [
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/neuroscience-ontology",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/select-interactives-visualizations",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/optical-illusions",],
@@ -138,6 +139,10 @@ module.exports = {
                   {
                       type: "doc",
                       id: "running-studies/execution/online-platforms-communities",
+                  },
+                  {
+                      type: "doc",
+                      id: "running-studies/execution/in-person-software",
                   },
                   {
                       type: "category",
