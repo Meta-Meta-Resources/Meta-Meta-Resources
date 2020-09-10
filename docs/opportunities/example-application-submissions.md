@@ -1,6 +1,6 @@
 ---
 title: Example Application Submissions
-sidebar_label: Example Submissions
+sidebar_label: Example Application Submissions
 ---
 
 Unfortunately there aren't too many existing compilations of grant, fellowship, and job application submissions, but there are some! Hopefully they can help provide a template for your own future application.

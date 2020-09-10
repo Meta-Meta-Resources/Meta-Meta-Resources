@@ -67,7 +67,7 @@ module.exports = {
           },
           {
               type: "doc",
-              id: "opportunities/example-submissions",
+              id: "opportunities/example-application-submissions",
           },
           {
               type: "doc",
