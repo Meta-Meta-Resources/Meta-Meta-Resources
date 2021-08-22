@@ -6,7 +6,6 @@ sidebar_label: Sans Code (for free)
 
 | Company | Versions | Description |
 |---------|----------|-------------|
-| [Workbench](https://workbenchdata.com) | Free | Designed for journalism, but might as well have been designed for research—does data scraping, cleaning, combining, and analysis|
 | [TwoRavens](http://2ra.vn) | Free | High-quality, predictive, and interpretable statistical and machine learning model |
 | [OpenRefine](https://openrefine.org) | Free |  Cleaning messy data, transforming it, and extending it with web services and external data |
 | [Vayu](https://www.gyana.co.uk) | Freemium | Walks through the whole data analysis pipeline, from cleaning to modeling to visualizing

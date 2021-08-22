@@ -20,6 +20,7 @@ This list is in large part thanks to the retired Scholarly Societies Project
 | [BrainWeb](https://brain-web.github.io) |
 | [Brunswik Society](http://www.brunswik.org/) |
 | [Clinical Hypnotherapy Society](http://www.hipnosisclinica.org/) |
+| [Cognitive Development Society](https://cogdevsoc.org) |
 | [Cognitive Neuroscience Society](http://www.cogneurosociety.org/) |
 | [Cognitive Science Society](http://www.cognitivesciencesociety.org/) |
 | [College on Problems of Drug Dependence](http://www.cpdd.org/) |
