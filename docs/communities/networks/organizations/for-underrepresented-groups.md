@@ -5,7 +5,7 @@ sidebar_label: For Underrepresented Groups
 
 | Organization |
 |--------------|
-| [The ALBA Network] (https://www.alba.network) |
+| [The ALBA Network](https://www.alba.network) |
 | [American Indian Science and Engineering Society](https://www.aises.org) |
 | [Asian American Psychological Association](https://www.aapaonline.org) |
 | [Association for Women in Science](https://www.awis.org) |

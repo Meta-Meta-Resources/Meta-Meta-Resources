@@ -26,6 +26,7 @@ This list is in large part thanks to the retired Scholarly Societies Project
 | [College on Problems of Drug Dependence](http://www.cpdd.org/) |
 | [Collegium Internationale Neuro-Psychopharmacologicum](https://www.cinp.org/) |
 | [Developmental Neurotoxicology Society](https://www.dntshome.org/) |
+| [Early Career Social Learning Researchers' Society](https://www.eslrsociety.org) |
 | [Federation of Associations in Behavioral & Brain Sciences](https://fabbs.org/) |
 | [Human Behavior and Evolution Society](http://www.hbes.com/) |
 | [Human Factors and Ergonomics Society](http://www.hfes.org/) |
