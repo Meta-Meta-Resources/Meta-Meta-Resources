@@ -5,8 +5,6 @@ sidebar_label: Optical Illusions
 
 This page is a running list of optical illusion compilations. Consider it very much a work in progress!
 
-[Perception and Illusion](http://hua.umf.maine.edu/psychology/psychurl.html#:~:text=Perception%20and%20Illusions)
-
 ["Reality": Construction, Deconstruction, and Reconstruction](https://serendipstudio.org/bb/)
 
 [138 Optical Illusions & Visual Phenomena](https://michaelbach.de/ot/)

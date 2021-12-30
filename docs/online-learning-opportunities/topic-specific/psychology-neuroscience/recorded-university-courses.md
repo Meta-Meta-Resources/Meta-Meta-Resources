@@ -6,7 +6,7 @@ sidebar_label: University Lectures
 Below is a running list of university-level psychology and neuroscience classes with open syllabi and video recordings. It's worth noting that these resources are specifically meant to complement the resources (such as [MIT OpenCourseWare](https://ocw.mit.edu/search/ocwsearch.htm)) already included in the [Mason OER Metafinder](https://oer.deepwebaccess.com/oer/desktop/en/search.html), which is linked from the [Overview page of the Free Online Learning Overview section](/online-learning-opportunities/overview).  
 
 | Class | University | Professor(s) | Year |
-|----------|-------------|
+|----------|---------|--------------|------|
 | [Approaches to Study Neural Circuits in Behaving Animals](https://github.com/SjulsonLab/methods_class) | Albert Einstein College of Medicine | Anita Autry and Lucas Sjulson | 2020 |
 | [Introduction to Neuroscience](https://github.com/khakhalin/Teaching/blob/master/Intro_Neuroscience/readings_neuro.md) | Bard College | Arseny Khakhalin | 2020 |
 | [Sensation & Perception](https://tinyurl.com/SandP-Strand) | Carleton College | Julia Strand | 2020 |
