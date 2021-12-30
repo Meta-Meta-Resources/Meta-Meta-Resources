@@ -18,7 +18,7 @@ Below is a running list of university-level psychology and neuroscience classes 
 | [Computing with High-Dimensional Vectors](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors) | University of California, Berkeley | Denis Kleyko, Bruno Olshausen, Fritz Sommer, and Pentti Kanerva | 2021 |
 | [Neural Computation](https://redwood.berkeley.edu/courses/vs265) | University of California, Berkeley | Bruno Olshausen | 2020 |
 | [Computational Cognitive Neuroscience](https://compcogneuro.org) | University of California, Davis | Randall O’Reilly | 2020 |
-| [Principles of Psychology and Neuroscience](https://principlesofpsych.org) | University of California, Davis | Randall O’Reilly	2020 |
+| [Principles of Psychology and Neuroscience](https://principlesofpsych.org) | University of California, Davis | Randall O’Reilly | 2020 |
 | [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience) | University of Texas Health Science Center at Houston | John H. Byrne	| |
 | [Data Science for Psychologists](https://datascience4psych.github.io/DataScience4Psych) | Wake Forest University | Mason Garrison | 2021 |
 | [Psychological Testing](https://r-computing-lab.github.io/psychtesting) | Wake Forest University | Mason Garrison | 2021 |
