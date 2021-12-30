@@ -3,7 +3,7 @@ title:  University Classes with a Syllabus and Recorded Lectures
 sidebar_label: University Lectures
 ---
 
-Below is a running list of semester-long university classes in psychology and neuroscience with open syllabi and video recordings. It's worth noting there are plenty more lectures available elsewhere online too. However, most either don't go together with syllabi (like videos on YouTube) or were never taught specifically to university students, in which case they may fall under this website's [page dedicated to MOOCs]((/online-learning-opportunities/moocs).
+Below is a running list of semester-long university classes in psychology and neuroscience with open syllabi and video recordings. It's worth noting there are plenty more lectures available elsewhere online too. However, most either don't go together with syllabi (like videos on YouTube) or were never taught specifically to university students, in which case they may fall under this website's [page dedicated to MOOCs](/online-learning-opportunities/moocs).
 
 | Class | University | Professor(s) | Year |
 |----------|---------|--------------|------|
