@@ -24,7 +24,8 @@ Below is a running list of semester-long university classes in psychology and ne
 | [Computational Cognitive Neuroscience](https://compcogneuro.org) | University of California, Davis | Randall O’Reilly | 2020 |
 | [Principles of Psychology and Neuroscience](https://principlesofpsych.org) | University of California, Davis | Randall O’Reilly | 2020 |
 | [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience) | University of Texas Health Science Center at Houston | John H. Byrne	| |
-| [Data Science for Psychologists](https://datascience4psych.github.io/DataScience4Psych) | Wake Forest University | S. Mason Garrison | 2021 |
-| [Psychological Testing](https://r-computing-lab.github.io/psychtesting) | Wake Forest University | S. Mason Garrison | 2021 |
+| [Data Science for Psychologists](https://datascience4psych.github.io/DataScience4Psych) | Wake Forest University | [S. Mason Garrison](https://github.com/smasongarrison) | 2022 |
+| [Psychological Testing](https://r-computing-lab.github.io/psychtesting) | Wake Forest University | [S. Mason Garrison](https://github.com/smasongarrison) | 2021 |
+| [Personality Psychology](https://smasongarrison.github.io/personality/) | Wake Forest University | [S. Mason Garrison](https://github.com/smasongarrison) | 2021 |
 | [Introduction to Psychology](https://oyc.yale.edu/NODE/231) | Yale University | Paul Bloom | 2007 |
 | [The Psychology, Biology and Politics of Food](https://oyc.yale.edu/NODE/236) | Yale University | Kelly D. Brownell | 2008 |
