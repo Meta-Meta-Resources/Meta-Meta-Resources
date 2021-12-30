@@ -18,3 +18,5 @@ This page is a running list of optical illusion compilations. Consider it very m
 [Real Artifacts](http://www.realtimerendering.com/realartifacts)
 
 [Project LITE](http://lite.bu.edu)
+
+[The Illusion Index](https://www.illusionsindex.org)
