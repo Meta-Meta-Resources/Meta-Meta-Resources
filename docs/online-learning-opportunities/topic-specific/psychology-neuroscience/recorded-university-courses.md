@@ -3,7 +3,7 @@ title:  University Classes with a Syllabus and Recorded Lectures
 sidebar_label: University Lectures
 ---
 
-Below is a running list of university-level psychology and neuroscience classes with open syllabi and video recordings. It's worth noting that these resources are specifically meant to complement the resources (such as [MIT OpenCourseWare](https://ocw.mit.edu/search/ocwsearch.htm)) already included in the [Mason OER Metafinder](https://oer.deepwebaccess.com/oer/desktop/en/search.html), which is linked from the [Overview page of the Free Online Learning Overview section](/online-learning-opportunities/overview).  
+Below is a running list of university-level psychology and neuroscience classes with open syllabi and video recordings. It's worth noting there are plenty more lectures available elsewhere online too, in places like YouTube. However, most don't go together with syllabi.
 
 | Class | University | Professor(s) | Year |
 |----------|---------|--------------|------|
@@ -12,6 +12,10 @@ Below is a running list of university-level psychology and neuroscience classes 
 | [Sensation & Perception](https://tinyurl.com/SandP-Strand) | Carleton College | Julia Strand | 2020 |
 | [Human Memory](https://github.com/ContextLab/human-memory) | Dartmouth College | Jeremy Manning | 2021 |
 | [Storytelling with Data](https://github.com/ContextLab/storytelling-with-data) | Dartmouth College | Jeremy Manning | 2021 |
+| [The Human Brain](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019) | Massachusetts Institute of Technology | Nancy Kanwisher | 2019 |
+| [Introduction to Neural Computation](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/) | Massachusetts Institute of Technology | Michale Fee and Daniel Zysman | 2018 |
+| [Introduction to Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011) | | Massachusetts Institute of Technology | John Gabrieli | 2011 |
+| [Sensory Systems](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-04-sensory-systems-fall-2013) | Massachusetts Institute of Technology | Peter H. Schiller and M. Christian Brown | 2013 |
 | [Lab in Cognition and Perception](https://gureckislab.org/courses/spring21/labincp) | New York University | Todd Gureckis | 2021 |
 | [Computational Models of the Neocortex](https://web.stanford.edu/class/cs379c) | Stanford University | Thomas Dean | 2021 |
 | [Modeling the Mind](http://u.arizona.edu/~bob/web_NSCS344) | University of Arizona | Robert C. Wilson | 2020 |
