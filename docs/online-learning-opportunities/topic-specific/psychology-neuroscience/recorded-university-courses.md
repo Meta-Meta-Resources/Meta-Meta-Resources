@@ -8,7 +8,7 @@ Below is a running list of university-level psychology and neuroscience classes 
 | Class | University | Professor(s) | Year |
 |----------|-------------|
 | [Approaches to Study Neural Circuits in Behaving Animals](https://github.com/SjulsonLab/methods_class) | Albert Einstein College of Medicine | Anita Autry and Lucas Sjulson | 2020 |
-| Introduction to Neuroscience(https://github.com/khakhalin/Teaching/blob/master/Intro_Neuroscience/readings_neuro.md) | Bard College | Arseny Khakhalin | 2020 |
+| [Introduction to Neuroscience](https://github.com/khakhalin/Teaching/blob/master/Intro_Neuroscience/readings_neuro.md) | Bard College | Arseny Khakhalin | 2020 |
 | [Sensation & Perception](https://tinyurl.com/SandP-Strand) | Carleton College | Julia Strand | 2020 |
 | [Human Memory](https://github.com/ContextLab/human-memory) | Dartmouth College | Jeremy Manning | 2021 |
 | [Storytelling with Data](https://github.com/ContextLab/storytelling-with-data) | Dartmouth College | Jeremy Manning | 2021 |

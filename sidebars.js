@@ -24,6 +24,7 @@ module.exports = {
                   type: "category",
                   label: "Psychology / Neuroscience",
                   items: [
+                      "online-learning-opportunities/topic-specific/psychology-neuroscience/recorded-university-courses",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/neuroscience-ontology",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/select-interactives-visualizations",
                       "online-learning-opportunities/topic-specific/psychology-neuroscience/experiments-in-the-browser",
