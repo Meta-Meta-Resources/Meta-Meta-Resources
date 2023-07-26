@@ -12,3 +12,6 @@ sidebar_label: Free Products for Students
 [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#student-benefits-and-packs-v)
 
 [Student App Centre](https://studentappcentre.com)
+
+[follow for updates on Instagram]  (https://instagram.com/mr_bhiknure.n.t.744_official?igshid=NTc4MTIwNjQ2YQ==)
+
